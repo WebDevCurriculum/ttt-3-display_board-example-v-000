@@ -2,4 +2,5 @@
     def display_board
     cell =  "   "
     vertical_lines = "|  |"
+    horizontal_lines = "-----------"
     end
