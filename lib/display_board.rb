@@ -6,7 +6,7 @@ def display_board
       2.times do
       puts $cell + $vertical_lines + $cell + $vertical_lines + $cell
       puts $horizontal_lines
-    end 
+    end
     
   end
 
