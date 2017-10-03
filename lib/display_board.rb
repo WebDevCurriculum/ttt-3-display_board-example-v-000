@@ -3,4 +3,5 @@
     cell =  "   "
     vertical_lines = "|  |"
     horizontal_lines = "-----------"
+    return cell + vertical_lines + horizontal_lines
     end
