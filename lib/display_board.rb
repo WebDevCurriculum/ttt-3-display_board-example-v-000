@@ -6,7 +6,7 @@ def display_board
 
       puts $cell + $vertical_lines + $cell
       puts $cell + $vertical_lines + $cell + $vertical_lines
-      
+
   end
 
 display_board
